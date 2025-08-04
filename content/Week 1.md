@@ -1,5 +1,5 @@
 ---
-title: Example title
+title: Week1
 description: 
 date: 
 draft: false
@@ -7,5 +7,4 @@ tags:
 permalink: 
 aliases:
 ---
-Hope this works!
-Go [[index|Home]]
+Back to [[index|Home]]
