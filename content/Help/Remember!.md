@@ -17,4 +17,4 @@ Commit changes on VS
 
 Then sync changes from obsidian with:
 
-` npx quartz sync`
+` npx quartz sync `
