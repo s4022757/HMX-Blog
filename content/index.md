@@ -6,6 +6,12 @@ aliases:
 ---
 This is where I will host all of my blog posts containing weekly reflections, research and critical analysis along my path in Heightened Mutisensory Experiences!
 
+Let's go!
+___
+- # [[Week 1]]
+- 
+
+
 
 
 
