@@ -8,3 +8,4 @@ permalink:
 aliases:
 ---
 Hope this works!
+Go [[index|Home]]
