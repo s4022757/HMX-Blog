@@ -24,6 +24,7 @@ I'm at the beginning of my path in digital media, and am still completing part m
 There's not a whole lot here but have a squizz:
 https://vimeo.com/user216433745
 https://www.youtube.com/@ccurimt
+
 Some of my photography:
 https://www.flickr.com/photos/mr_mundano/albums/72177720318225570/
 
