@@ -1,7 +1,7 @@
 ---
 title: Week 1
 description: Introduction via Canvas
-date: 
+date: 2025-08-03
 draft: false
 tags: 
 permalink: 
