@@ -7,8 +7,8 @@ tags:
 permalink: 
 aliases:
 ---
-Back to [[index|Home]]
 
+***
 Not the greatest start to the semester. 
 While I was not enrolled in classes this week, there are plenty of resources to go through on Canvas.
 # Reflection
@@ -27,3 +27,4 @@ While I was not enrolled in classes this week, there are plenty of resources to 
 
 
 
+Back to [[index|Home]]

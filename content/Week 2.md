@@ -7,8 +7,6 @@ tags:
 permalink: 
 aliases:
 ---
-Back to [[index|Home]]
-
 
 # Reflection
 
@@ -22,3 +20,5 @@ Back to [[index|Home]]
 
 # Progress
 
+
+Back to [[index|Home]]
