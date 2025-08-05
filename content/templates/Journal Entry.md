@@ -1,6 +1,6 @@
 ---
-title: Week 2
-description: Experiencing the Capitol
+title: 
+description: 
 date: 
 draft: false
 tags: 

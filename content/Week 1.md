@@ -1,6 +1,6 @@
 ---
-title: Week1
-description: 
+title: Week 1
+description: Introduction via Canvas
 date: 
 draft: false
 tags: 
@@ -8,3 +8,22 @@ permalink:
 aliases:
 ---
 Back to [[index|Home]]
+
+Not the greatest start to the semester. 
+While I was not enrolled in classes this week, there are plenty of resources to go through on Canvas.
+# Reflection
+
+
+
+# Research
+
+## Academic
+
+## Creative Practice
+
+## Technical
+
+# Progress
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: Example title
+title: 
 description: 
 date: 
 draft: false
