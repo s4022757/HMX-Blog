@@ -177,6 +177,7 @@ Link to game's [website](https://www.monumentvalleygame.com/mv3).
 ***
 # Definition
 
+***
 # Research
 ## Academic
 
