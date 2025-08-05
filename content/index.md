@@ -8,6 +8,8 @@ This is where I will host all of my blog posts containing weekly reflections, re
 ___
 - ### [[Week 1]]
 
+	- [[Student Profile]]
+
 - ### [[Week 2]]
 
 
