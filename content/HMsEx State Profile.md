@@ -84,6 +84,11 @@ A digital maze of impossible geometry, echoing Escher and sacred architecture. T
 
 Link to game's [website](https://www.monumentvalleygame.com/mv3).
 
+# Definition
 
+# Research
+## Academic
+
+## Technical
 
 Back to [[index|Home]]
