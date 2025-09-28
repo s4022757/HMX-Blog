@@ -1,8 +1,8 @@
 ---
 title:
 description:
-date:
-draft: true
+date: 2025-08-05
+draft: false
 tags:
 permalink:
 aliases:

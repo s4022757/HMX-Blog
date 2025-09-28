@@ -14,7 +14,21 @@ ___
 
 	- ### [[HMsEx State Profile|A1 - State Profile]]
 
+- ### [[Week 3]]
 
+- ### [[Week 4]]
+
+- ### [[Week 5]]
+
+- ### [[Week 6]]
+
+ - ### [[Week 7]]
+	 - ##### [[Lighting Research from Class]]
+
+ - ### [[Week 8]]
+	 - [[Sublime Research from Class]]
+
+ - ### [[Week 9]]
 
 
 
