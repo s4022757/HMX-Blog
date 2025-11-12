@@ -29,6 +29,11 @@ ___
 	 - [[Sublime Research from Class]]
 
  - ### [[Week 9]]
+	 - [[Work in Progress Presentation]]
+ - ### [[Week 10]]
+ - ### [[Week 11]]
+ - ### [[Week 12]]
+ - ### [[Week 13]]
 
 
 
