@@ -1,6 +1,6 @@
 ---
 title: Week 11
-description:
+description: 6-12 Oct Tue Research implementation lecture Thu sound design affective state lecture
 date: 2025-10-07
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 12|Next Week's Blog Post]]
+Back to [[index|Home]]

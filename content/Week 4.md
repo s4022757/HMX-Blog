@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 4
+description: 11-17 Aug A2 Proposal Prez tue & thu
 date: 2025-08-12
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 5|Next Week's Blog Post]]
+Back to [[index|Home]]

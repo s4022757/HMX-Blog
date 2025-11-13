@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 6
+description: 25-31st Aug - Tue My Animal Marks film - Darrin guest lecture & Ikeda on Thu
 date: 2025-08-26
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 7|Next Week's Blog Post]]
+Back to [[index|Home]]

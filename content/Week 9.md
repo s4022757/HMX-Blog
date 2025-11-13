@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 9
+description: 22-28 Sept - Milestone prez
 date: 2025-09-23
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 10|Next Week's Blog Post]]
+Back to [[index|Home]]

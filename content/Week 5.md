@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 5
+description: 18-24 Aug
 date: 2025-08-19
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 6|Next Week's Blog Post]]
+Back to [[index|Home]]

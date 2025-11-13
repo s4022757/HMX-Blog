@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 8
+description: 15-21 Sept Tue Sublime lecture Thu Malthouse lecture
 date: 2025-09-16
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 9|Next Week's Blog Post]]
+Back to [[index|Home]]

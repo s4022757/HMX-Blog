@@ -1,6 +1,6 @@
 ---
 title: Week 12
-description:
+description: 13-19th October - Research lecture tue
 date: 2025-10-14
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 13-14|Next Week's Blog Post]]
+Back to [[index|Home]]

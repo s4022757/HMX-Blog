@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Week 7
+description: 8-14th Sept - Tue Huron affect Thu Light
 date: 2025-09-09
 draft: false
 tags:
@@ -22,3 +22,5 @@ Back to [[index|Home]]
 
 # Progress
 
+### [[Week 8|Next Week's Blog Post]]
+Back to [[index|Home]]
