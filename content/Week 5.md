@@ -30,6 +30,14 @@ This text views sound as a driving force which activates the most ancient and au
 
 This research investigates how various spatial auditory cues impact the perception of threat. Through a listening study, the authors determined that spatial audio significantly influences players' feelings of danger, realism, and ability to orient themselves. Specifically, the findings suggest that the inability to accurately locate an enemy using sound, tends to increase perceived threat.
 
+### Goodman 2009 - Sonic Warfare
+
+This text deeply explores how sound and vibration function as potent forces in subjective experience. The core argument investigates the concept of vibrational affect, examine how inaudible frequencies, like infrasound and ultrasound, create an ecology of fear by modulating mood and physically impacting both the body and the built environment. Furthermore, the source connects military applications of sound with the contagious micro-rhythms of electronic music which can hijack the body's rhythmic and affective systems.
+
+Loudness activates the body's defensive systems (fight, flight, or freeze) because, in evolutionary terms, it is a sound quality that correlates to the magnitude, proximity, and urgency of a threat.
+
+Subsonic frequencies are potent tools because they translate invisible energy directly into debilitating physical and visceral sensations, leveraging the primitive, hard-wired fear response to perceived threat without a clear audible source.
+
 ## Creative Practice
 
 ## Technical

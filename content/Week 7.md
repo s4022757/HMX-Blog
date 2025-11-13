@@ -16,6 +16,10 @@ Back to [[index|Home]]
 
 ## Academic
 
+### Huron 2006 - Sweet Anticipation
+
+text explores the psychological mechanisms of **expectation** in human perception, particularly focusing on how they relate to **music and emotion**.
+
 ## Creative Practice
 
 ## Technical
