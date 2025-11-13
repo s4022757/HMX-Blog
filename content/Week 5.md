@@ -16,6 +16,20 @@ Back to [[index|Home]]
 
 ## Academic
 
+### Juslin & Västfjäll 2008 - Emotional Responses to music
+
+The authors present a framework to explain how music induces emotions in listeners, arguing that music induces a  wide range of both basic and complex emotions via several psychological mechanisms that are not unique to music but are shared with other emotional stimuli.
+This text views sound as a driving force which activates the most ancient and automatic emotional mechanisms, while also providing the acoustic cues (like tempo, pitch, and timbre) necessary for more complex emotions.
+
+- Loudness indicates a strong force or large size. High-intensity sounds evoke higher arousal.
+- Dissonance produces a feeling of unpleasantness, and indicates danger because it occurs in the "threat" and "warning" calls of many animal species.
+- Low-pitched sounds emitted by large animals (or large instruments) might be associated with a sense of size or magnitude, although they are also linked to feelings of fear or anxiety
+- Music frequently evokes strong emotions like **awe and wonder**, which we usually associate with vast natural phenomena (like a storm or a cliff edge). In music, these powerful states are often triggered by the expectation, where the unexpected disruption of established musical patterns creates the emotional response.
+
+### Semionov & McGregor 2020 - Effect of Various Spatial Auditory Cues on the Perception of Threat in a First-Person Shooter Video Game
+
+This research investigates how various spatial auditory cues impact the perception of threat. Through a listening study, the authors determined that spatial audio significantly influences players' feelings of danger, realism, and ability to orient themselves. Specifically, the findings suggest that the inability to accurately locate an enemy using sound, tends to increase perceived threat.
+
 ## Creative Practice
 
 ## Technical

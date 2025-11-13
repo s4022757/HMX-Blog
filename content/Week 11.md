@@ -43,5 +43,8 @@ I can even keyframe the parameters along the timeline of the audio, and I went a
 ![[Screenshot 2025-11-14 at 7.12.42 am.png]]
 # Progress
 
+
+Following feedback I received, I would like to create a longer introduction to the sound design of the 
+
 ### [[Week 12|Next Week's Blog Post]]
 Back to [[index|Home]]

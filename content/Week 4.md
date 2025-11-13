@@ -26,6 +26,9 @@ The circumplex model posits that all emotional experiences emerge from cognitiv
 
 The circumplex model regards affective experiences as a spectrum of  interconnected and often ambiguous states. It addresses the fact that emotions are closely related and seem to lack the exact borders that would clearly differentiate one emotion from another, similar to the spectrum of colour.
 
+Using this model I have mapped some of the components I've identifies that comprise the sublime onto this model.
+
+![[Curtis Cox s4022757 - HMsEx - A3.2 Final Presentation.jpeg]]
 ### Schindler et al 2017 - Measuring Aesthetic Emotions
 
 This paper introduces the Aesthetic Emotions Scale (AESTHEMOS), a new measurement tool designed for the assessment of emotional responses to perceived aesthetic appeal across different mediums, including art. The scale consists of 21 subscales that capture a broad spectrum of feelings, such as prototypical aesthetic emotions (like beauty and awe), epistemic emotions (like interest and insight), and both activating (energy) and calming (relaxation) effects. Crucially, the authors highlight the need to move beyond simple positive or negative valence and arousal dimensions to capture the complexity of aesthetic experiences, which often involve mixed emotional states and negative emotions like confusion and boredom, which contribute to aesthetic displeasure. The researchers present AESTHEMOS as a tool, allows for and better suited for a fine-grained assessment of aesthetic emotions.
