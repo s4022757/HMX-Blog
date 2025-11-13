@@ -23,13 +23,10 @@ ___
 - ### [[Week 6]]
 
  - ### [[Week 7]]
-	 - ##### [[Lighting Research from Class]]
 
  - ### [[Week 8]]
-	 - [[Sublime Research from Class]]
 
  - ### [[Week 9]]
-	 - [[Work in Progress Presentation]]
  - ### [[Week 10]]
  - ### [[Week 11]]
  - ### [[Week 12]]

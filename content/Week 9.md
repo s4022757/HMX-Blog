@@ -12,6 +12,10 @@ Back to [[index|Home]]
 
 # Reflection
 
+As progress with my capitol project has been slow, I think it may be a smart idea to think of some alternative, smaller projects that could be faster to create a successful prototype.
+
+I certainly have more experience with video editing then
+
 # Research
 
 ## Academic
@@ -24,6 +28,8 @@ I found another song which I think would be a great inspiration for a sublime so
 
 The song utilizes the **figure and ground relationship**, to create a dynamic and compelling texture. The **strings and keys** form the **"figure"** (the foreground elements that capture immediate attention), while the **sweeping bass wipes** and longer cello bows provide the expansive **"ground"** (the underlying and continuous sonic foundation). This contrast between the melodic elements and the broad, continuous strokes generate a profound **sense of vastness**. The bass, with its deep and wide frequency range, creates an open, almost infinite sonic landscape, giving the melodic figure room to breathe and resonate. This feeling of immense space and dramatic contrast hits the sublime feeling and I would assume fill the theatre perfectly. The sadness evoked by the melody, along with the threatening nature of the intense sweeping bass are elements that when paired with a lighting program could effectively turn the theatre into an expansive, emotionally charged sublime experience for the audience.
 ## Technical
+
+
 
 # Progress
 
